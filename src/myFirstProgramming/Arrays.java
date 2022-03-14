@@ -6,6 +6,8 @@ public class Arrays {
 		
 		int a[] = {1,2,3,4,5};
 		
+		int b[][] = {{1,2},{4,5}};
+		
 		//System.out.println(a[1]);
 		
 		//Print values one by one
@@ -14,7 +16,7 @@ public class Arrays {
 			System.out.println("element corresponding to index"+i+": "+a[i]);
 		}
 		
-		for(int itr:a) {
+		for(int itr : a) {
 			System.out.println(itr);
 		}
 
