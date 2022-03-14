@@ -1,0 +1,52 @@
+--------------------------------------- Core Java 3/14/22 -----------------------------------------------------
+
+1. Java Collections
+2. Classes and Objects
+3. Inheritence
+
+
+
+
+
+Java Collections:
+	
+	Framework that is used to store and manipulate data
+	Eg: Arraylist, Vector (Integer), Linkedlist, Hashset, treeset
+	
+	{1: value,
+	 2: value}
+	 
+	 { username: "test",
+	   passowrd: "value"}
+	   
+	{
+    "page": 2,
+    "per_page": 6,
+    "total": 12
+	}
+	
+	Checkbox:
+		Maths, physiscs
+
+Classes and Objects
+
+	Blueprint for creating objects
+	eg: Animal
+	
+	Attributes: Refers to data inside class
+	Method: Used to exhibits the behavior of class
+	
+	Real world entity=> Object
+	eg: cat, dog.....
+	
+	
+	Access modifiers:
+	
+		Set visibility of enitities.
+		Public: Visbile everywhere
+		Private: Visible within the class only
+		Protected: Visbile for classes declared under same package and subclasses
+		
+	Construtor:
+		Used to intilize class
+		Declared using class name
