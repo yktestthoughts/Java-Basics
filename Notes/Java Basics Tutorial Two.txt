@@ -50,3 +50,22 @@ Classes and Objects
 	Construtor:
 		Used to intilize class
 		Declared using class name
+
+Login Page:
+
+	Username
+	Pwd               => Pkg1
+	Sign- in
+
+	Test
+	Test case 1
+		Check whether logo displayed
+	Test case 2       => Pkg2
+		Invalid message
+
+Scenario:
+	Login => Preconditon (User should be on login page => Parent class (BaseTest, Baseclass)
+	Purchase 
+
+
+
